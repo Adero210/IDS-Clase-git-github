@@ -1,7 +1,7 @@
 # IDS-Clase-git-github
 **_Proyecto para practicar comandos de git para la clase de IDS_**
 
-## **Comandos**
+# **Comandos**
 
 # git init 
 Sirve para inicializar un Proyecto nuevo (crea un repositorio local en tu ordenador)
@@ -37,4 +37,28 @@ git config --global user.name"nombre del usuario"
 
 # git log 
 Sirve para ver todos los commits que se han creado 
+
+# git checkout --
+Sirve para revertir los cambios de los archivos 
+
+### *sinstaxis* 
+git checkout -- nombre del archivo
+
+# git diff
+Sirve para ver las diferencias hechas en los archivos 
+
+### *sinstaxis* 
+git diff nombre del archivo
+
+
+
+
+
+
+
+
+
+
+# .gitignore 
+Es un archivo donde se colocan archivos o carpetas que no se quieran agregar al entorno de trabajo
 
