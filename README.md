@@ -50,14 +50,14 @@ Sirve para ver las diferencias hechas en los archivos
 ### *sinstaxis* 
 git diff nombre del archivo
 
+# git branch
+Muestra las ramas que existen en el repositorio 
 
+# git branch nombre_de_rama
+Crea una nueva rama del proyecto con el nombre que se coloque
 
-
-
-
-
-
-
+# git checkout nombre_de_rama
+Se mueve a la rama que seleccione en nombre_de _rama
 
 # .gitignore 
 Es un archivo donde se colocan archivos o carpetas que no se quieran agregar al entorno de trabajo
