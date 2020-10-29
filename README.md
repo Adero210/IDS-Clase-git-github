@@ -59,6 +59,20 @@ Crea una nueva rama del proyecto con el nombre que se coloque
 # git checkout nombre_de_rama
 Se mueve a la rama que seleccione en nombre_de _rama
 
+# git remote add origin link_del_proyecto 
+Conecta tu repositorio local con un repositorio online en github 
+
+# git push -u origin main 
+Carga tu repositorio local al repositorio de github 
+
+# git clone link_del_repositorio 
+Crea una copia del proyecto en tu ordenador
+
 # .gitignore 
 Es un archivo donde se colocan archivos o carpetas que no se quieran agregar al entorno de trabajo
 
+>https://www.youtube.com/watch?v=HiXLkL42tMU&ab_channel=Fazt
+
+
+### Crear una llave ssh
+ssh-keygen -t rsa -b 4096 -C "Message"
