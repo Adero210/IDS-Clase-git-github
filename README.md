@@ -4,12 +4,12 @@
 ## **Comandos**
 
 # git init 
-sirve para inicializar un Proyecto nuevo (crea un repositorio local en tu ordenador)
+Sirve para inicializar un Proyecto nuevo (crea un repositorio local en tu ordenador)
 
 # git status
-sirve para ver el estado de nuestros archivos (los archivos que tenemos o que se estan trabajando)
+Sirve para ver el estado de nuestros archivos (los archivos que tenemos o que se estan trabajando)
 
 # git add 
 Agrega un archivo al staging area. 
 ### *sinstaxis* 
-git add <nombre del archivo> 
+git add nombre del archivo 
