@@ -69,7 +69,7 @@ Carga tu repositorio local al repositorio de github
 Crea una copia del proyecto en tu ordenador
 
 # .gitignore 
-Es un archivo donde se colocan archivos o carpetas que no se quieran agregar al entorno de trabajo
+Es un archivo donde se colocan los nombres de archivos o carpetas que no se quieran agregar al entorno de trabajo
 
 >https://www.youtube.com/watch?v=HiXLkL42tMU&ab_channel=Fazt
 
