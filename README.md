@@ -13,3 +13,28 @@ Sirve para ver el estado de nuestros archivos (los archivos que tenemos o que se
 Agrega un archivo al staging area. 
 ### *sinstaxis* 
 git add nombre del archivo 
+
+# git add .
+Agrega todos los archivos al staging area.
+
+# git commit 
+Para crear un primer punto de control de nuestro código
+
+### *sinstaxis* 
+git commit -m"Mensaje para el commit" 
+
+# git config --global user.email
+Para configurar el email del usuario que va a usar el repositorio 
+
+### *sinstaxis* 
+git config --global user.email"email del usuario"
+
+# git config --global user.name 
+Para configurar el nombre del usuario que va a usar el repositorio
+
+### *sinstaxis* 
+git config --global user.name"nombre del usuario"
+
+# git log 
+Sirve para ver todos los commits que se han creado 
+
