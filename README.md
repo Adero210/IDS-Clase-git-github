@@ -21,7 +21,7 @@ Agrega todos los archivos al staging area.
 Para crear un primer punto de control de nuestro código
 
 ### *sinstaxis* 
-git commit -m"Mensaje para el commit" 
+git commit -m "Mensaje para el commit" 
 
 # git config --global user.email
 Para configurar el email del usuario que va a usar el repositorio 
